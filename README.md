@@ -1,4 +1,4 @@
-# git-test 사용 문법
+# git-test 사용 문법들
 ## 1. git init, add, commit, push
 
 ### - git init : 프로젝트를 저장소로 만들기 위해 사용하는 명령어
