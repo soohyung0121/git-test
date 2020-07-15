@@ -12,5 +12,3 @@ def odd_number(number):
         print("7의 배수")
     elif number & 9 == 0:
         print("그냥 넣어봤습니다.")
-    else:
-        print("숫자입니다.")
