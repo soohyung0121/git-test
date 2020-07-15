@@ -8,7 +8,5 @@ def odd_number(number):
         print("3의 배수")
     elif number & 5 == 0:
         print("5의 배수")
-    elif number & 7 == 0:
-        print("7의 배수")
     elif number & 9 == 0:
         print("그냥 넣어봤습니다.")
